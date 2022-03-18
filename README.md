@@ -1,0 +1,2 @@
+# latinsults
+Latin Insult API
