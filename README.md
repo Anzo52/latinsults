@@ -52,21 +52,21 @@ Content-Type: application/json
 Content-Length: xy
 
 {
-   "apitoken": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "expirationDate": "2018-02-13T15:31:55.559Z"
+   "apitoken": "xxxx",
+   "expirationDate": "xxx"
 }
 ```
 **Failed Response:**
 ```json
 HTTP/1.1 401 Unauthorized
-Server: My RESTful API
+Server: xxx
 Content-Type: application/json
 Content-Length: xy
 
 {
-    "code": 120,
-    "message": "invalid crendetials",
-    "resolve": "The username or password is not correct."
+    "code": xxx,
+    "message": "xxx",
+    "resolve": "xxx."
 }
 ``` 
 
