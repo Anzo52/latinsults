@@ -1,2 +1,3 @@
 Flask
 Flask-RESTful
+flask-selfdoc==1.3.1a0
