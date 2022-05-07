@@ -1,5 +1,5 @@
 # Latinsults
-Generates random insults in Latin with english translation.
+Generates random insults in Latin with English translation.
 
 ## Usage
 Single endpoint: GET https://api.zollnersolutions.com/latinsults/
